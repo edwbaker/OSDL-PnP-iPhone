@@ -1,0 +1,776 @@
+TBonjourWeb
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Info.plist /Users/edwab/Downloads/BonjourWeb/Info.plist
+cCpResource Default.png DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Default.png
+cCpResource Icon.png DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Icon.png
+cCopyStringsFile /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCompileXIB /Users/edwab/Downloads/BonjourWeb/en.lproj/MainWindow.xib
+cProcessPCH /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.pch BonjourWeb_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o /Users/edwab/Downloads/BonjourWeb/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o /Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o /Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb normal i386
+cGenerateDSYMFile /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb
+cTouch /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F738500000000000003B4
+t1394570117
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F738E000000000000019E
+t1394570126
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F739000000000005B82F0
+t1394570128
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531F73900000000000446820
+t1394570128
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F7392000000000088D8C0
+t1394570130
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F73970000000001F1DE10
+t1394570135
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531F73A400000000002BC360
+t1394570148
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531F73AC0000000000002338
+t1394570156
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531F73AD000000000008D370
+t1394570157
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531F73AD0000000000392E20
+t1394570157
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005310EC1E00000000000141F0
+t1393617950
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531F73AD0000000000014A80
+t1394570157
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531F73AD0000000000033BA0
+t1394570157
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531F73AD000000000001CFB0
+t1394570157
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531F73AD000000000001B2B0
+t1394570157
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531F73AD00000000000C9570
+t1394570157
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F73AD0000000000063280
+t1394570157
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531F73AD0000000000008880
+t1394570157
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531F73AD0000000000015080
+t1394570157
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531F73AD00000000000230F0
+t1394570157
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531F73AD000000000000E380
+t1394570157
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531F73AD0000000000089380
+t1394570157
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531F73AD0000000000017320
+t1394570157
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531F73AD0000000000039CD0
+t1394570157
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531F73AD000000000000B0B0
+t1394570157
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531F73AD0000000000167E80
+t1394570157
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531F73AD00000000000106A0
+t1394570157
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531F73AD000000000001CE40
+t1394570157
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531F73AD00000000000740C0
+t1394570157
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531F73AD000000000006CA60
+t1394570157
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531F73AD000000000001BAD0
+t1394570157
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531F73AD0000000000084A20
+t1394570157
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000531F73B2000000000000514C
+t1394570162
+s20812
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.h
+c000000004C19577200000000000012BC
+t1276729202
+s4796
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m
+c000000004C1957720000000000001EC4
+t1276729202
+s7876
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.h
+c000000004C19577200000000000010CF
+t1276729202
+s4303
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m
+c0000000053259F7800000000000031E3
+t1394974584
+s12771
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.h
+c000000004C19577200000000000010D4
+t1276729202
+s4308
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m
+c000000004C19577200000000000033D2
+t1276729202
+s13266
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.h
+c000000004C1957720000000000000C67
+t1276729202
+s3175
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m
+c000000004C19577200000000000011E7
+t1276729202
+s4583
+
+N/Users/edwab/Downloads/BonjourWeb/BonjourWeb_Prefix.pch
+c000000004C1957720000000000000AA5
+t1276729202
+s2725
+
+N/Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.h
+c000000004C1957720000000000000B86
+t1276729202
+s2950
+
+N/Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m
+c000000005325A1B90000000000000C37
+t1394975161
+s3127
+
+N/Users/edwab/Downloads/BonjourWeb/Default.png
+c000000004A11CE170000000000000643
+t1242680855
+s1603
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o
+t1394983239
+s66560
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWeb.LinkFileList
+c000000005325C13B0000000000000410
+t1394983227
+s1040
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o
+t1394983239
+s71204
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o
+t1394983240
+s87352
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o
+t1394983240
+s89324
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o
+t1394983240
+s56160
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o
+t1394983239
+s3748
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.pch
+t1394983239
+s5366308
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app
+t1394983240
+s272
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM
+t1394983240
+s102
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb
+t1394983240
+s81356
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Default.png
+t1394983227
+s1603
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Icon.png
+t1394983227
+s4687
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Info.plist
+t1394983227
+s684
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/PkgInfo
+t1394983227
+s8
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings
+t1394983227
+s252
+
+N/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj/MainWindow.nib
+t1394983237
+s1608
+
+N/Users/edwab/Downloads/BonjourWeb/Icon.png
+c000000004A11CE17000000000000124F
+t1242680855
+s4687
+
+N/Users/edwab/Downloads/BonjourWeb/Info.plist
+c0000000053259F2300000000000003EC
+t1394974499
+s1004
+
+N/Users/edwab/Downloads/BonjourWeb/en.lproj/Localizable.strings
+c000000004A11CE170000000000000198
+t1242680855
+s408
+
+N/Users/edwab/Downloads/BonjourWeb/en.lproj/MainWindow.xib
+c000000004A11CE170000000000001B35
+t1242680855
+s6965
+
+N/Users/edwab/Downloads/BonjourWeb/main.m
+c000000004C1957720000000000000A8E
+t1276729202
+s2702
+
+N/usr/lib/libSystem.B.dylib
+c00000000526A8F63000000000000E6D0
+t1382715235
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526A8F750000000000012A00
+t1382715253
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526A8F51000000000002E320
+t1382715217
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526A8F630000000000021860
+t1382715235
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000526A8F74000000000001B620
+t1382715252
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000526A8F7400000000000BD920
+t1382715252
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000526A8F74000000000000A120
+t1382715252
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005310EC1E000000000001D550
+t1393617950
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526A8F730000000000014EE0
+t1382715251
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526A8F760000000000010380
+t1382715254
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000526A8F76000000000000C4C0
+t1382715254
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000526A8F7500000000000357A0
+t1382715253
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000526A8F75000000000000C070
+t1382715253
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005310EC1E0000000000010630
+t1393617950
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005310EC1E000000000001DF10
+t1393617950
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526A8F630000000000075B00
+t1382715235
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000530299D0000000000007CCE0
+t1392679376
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000526A8F6300000000000766C0
+t1382715235
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526A8F630000000000021FA0
+t1382715235
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005310EC1E000000000002D920
+t1393617950
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000526A8F75000000000001E570
+t1382715253
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005310EC1E000000000000CC70
+t1393617950
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000526A8F6E000000000000C3F0
+t1382715246
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000526A8F7500000000000199F0
+t1382715253
+s104944
+
+CBuild AST from /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m
+r0
+
+CBuild AST from /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m
+r0
+
+CBuild AST from /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m
+r0
+
+CBuild AST from /Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m
+r0
+
+CBuild AST from /Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m
+r0
+
+CBuild AST from /Users/edwab/Downloads/BonjourWeb/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc49349dbf8d5b841^69c94bdbf8d5b841^---0#1#1#--18"Check dependencies36"C92ECF48-6395-44C8-B6B7-1C3C8C77E5FA-
+
+CCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416676039.778223
+e416676039.990381
+r1
+xCompileC
+xDerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o
+x/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.h
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.h
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.h
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m244"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o BonjourSupport/BonjourBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler874ec7c7f8d5b841^018afdc7f8d5b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m0000000000000000^3807"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o BonjourSupport/BonjourBrowser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwab/Downloads/BonjourWeb    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -F/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator -include /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch -MMD -MT dependencies -MF /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.d --serialize-diagnostics /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.dia -c /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.m -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o36"6F7598BB-D8B6-4733-A30B-BC04D18EA413-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o /Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416676039.777951
+e416676039.991339
+r1
+xCompileC
+xDerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o
+x/Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m
+d/Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.h
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BonjourBrowser.h
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.h
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.h
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m251"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o Classes/BonjourWebAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler293dc7c7f8d5b841^1dc9fdc7f8d5b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m0000000000000000^3835"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o Classes/BonjourWebAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwab/Downloads/BonjourWeb    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -F/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator -include /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch -MMD -MT dependencies -MF /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.d --serialize-diagnostics /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.dia -c /Users/edwab/Downloads/BonjourWeb/Classes/BonjourWebAppDelegate.m -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o36"87021FA0-5C95-4A12-A8EE-9AE3728F7F37-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416676039.779229
+e416676040.004863
+r1
+xCompileC
+xDerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o
+x/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m258"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o BonjourSupport/BrowserViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a8ec7c7f8d5b841^4b3f01c8f8d5b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m0000000000000000^3849"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o BonjourSupport/BrowserViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwab/Downloads/BonjourWeb    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -F/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator -include /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch -MMD -MT dependencies -MF /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.d --serialize-diagnostics /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.dia -c /Users/edwab/Downloads/BonjourWeb/BonjourSupport/BrowserViewController.m -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o36"11FE8C24-40EE-4DDC-9342-F9AB16C78375-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416676039.979478
+e416676040.105510
+r1
+xCompileC
+xDerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o
+x/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.h
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.h
+o/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m:309:29: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [self.navigationController presentModalViewController:nc animated:YES];
+o                                   ^
+oIn file included from /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m:1:
+oIn file included from /Users/edwab/Downloads/BonjourWeb/BonjourWeb_Prefix.pch:58:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here
+o- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m:328:29: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]
+o        [self.navigationController dismissModalViewControllerAnimated:YES];
+o                                   ^
+oIn file included from /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m:1:
+oIn file included from /Users/edwab/Downloads/BonjourWeb/BonjourWeb_Prefix.pch:58:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here
+o- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);
+o^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m256"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o BonjourSupport/DomainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9dd9fac7f8d5b841^c5021bc8f8d5b841^-2577"/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m:309:29: warning: 'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [self.navigationController presentModalViewController:nc animated:YES];                                   ^In file included from /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m:1:In file included from /Users/edwab/Downloads/BonjourWeb/BonjourWeb_Prefix.pch:58:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:251:1: note: method 'presentModalViewController:animated:' declared here- (void)presentModalViewController:(UIViewController *)modalViewController animated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^/Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m:328:29: warning: 'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0 [-Wdeprecated-declarations]        [self.navigationController dismissModalViewControllerAnimated:YES];                                   ^In file included from /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m:1:In file included from /Users/edwab/Downloads/BonjourWeb/BonjourWeb_Prefix.pch:58:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h:254:1: note: method 'dismissModalViewControllerAnimated:' declared here- (void)dismissModalViewControllerAnimated:(BOOL)animated NS_DEPRECATED_IOS(2_0, 6_0);^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@81"'presentModalViewController:animated:' is deprecated: first deprecated in iOS 6.0-416676040#18446744073709551615#0#1(2@59"Method 'presentModalViewController:animated:' declared here-416676040#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^250#0#250#0#13300#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m0000000000000000^308#28#308#28#11747#0#12"Deprecations--2@80"'dismissModalViewControllerAnimated:' is deprecated: first deprecated in iOS 6.0-416676040#18446744073709551615#0#1(2@58"Method 'dismissModalViewControllerAnimated:' declared here-416676040#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@191"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h0000000000000000^253#0#253#0#13586#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@78"file:///Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m0000000000000000^327#28#327#28#12531#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@78"file:///Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m0000000000000000^3843"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o BonjourSupport/DomainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwab/Downloads/BonjourWeb    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -F/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator -include /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch -MMD -MT dependencies -MF /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.d --serialize-diagnostics /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.dia -c /Users/edwab/Downloads/BonjourWeb/BonjourSupport/DomainViewController.m -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o36"3FD9A589-70D9-4C6C-A067-915F02E71A73-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o /Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416676039.991967
+e416676040.048779
+r1
+xCompileC
+xDerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o
+x/Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m
+d/Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m264"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o BonjourSupport/SimpleEditViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9207fec7f8d5b841^5f7d0cc8f8d5b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m0000000000000000^3867"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o BonjourSupport/SimpleEditViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwab/Downloads/BonjourWeb    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -F/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator -include /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch -MMD -MT dependencies -MF /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.d --serialize-diagnostics /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.dia -c /Users/edwab/Downloads/BonjourWeb/BonjourSupport/SimpleEditViewController.m -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o36"D9ED2358-AF63-4B85-BEFB-D0C46BAFA3BD-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o /Users/edwab/Downloads/BonjourWeb/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416676039.777739
+e416676039.977872
+r1
+xCompileC
+xDerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o
+x/Users/edwab/Downloads/BonjourWeb/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edwab/Downloads/BonjourWeb/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /Users/edwab/Downloads/BonjourWeb/main.m209"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercb2fc7c7f8d5b841^3656fac7f8d5b841^---0#0#1#-19%DVTDocumentLocation2@47"file:///Users/edwab/Downloads/BonjourWeb/main.m0000000000000000^3717"CompileC DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwab/Downloads/BonjourWeb    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -F/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator -include /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch -MMD -MT dependencies -MF /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.dia -c /Users/edwab/Downloads/BonjourWeb/main.m -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o36"4CDB3EB1-ABC3-4EC7-9AD2-336FAD1A53CC-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCompileXIB /Users/edwab/Downloads/BonjourWeb/en.lproj/MainWindow.xib
+s416676027.306449
+e416676037.324916
+r1
+xCompileXIB
+x/Users/edwab/Downloads/BonjourWeb/en.lproj/MainWindow.xib
+o2014-03-16 15:20:36.571 Interface Builder Cocoa Touch Tool[47192:303] CFPreferences: user home directory at file:///var/empty/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compiling /Users/edwab/Downloads/BonjourWeb/en.lproj/MainWindow.xib34"CompileXIB en.lproj/MainWindow.xibd78a4ebbf8d5b841^062e53c5f8d5b841^-228"2014-03-16 15:20:36.571 Interface Builder Cocoa Touch Tool[47192:303] CFPreferences: user home directory at file:///var/empty/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@64"file:///Users/edwab/Downloads/BonjourWeb/en.lproj/MainWindow.xib0000000000000000^767"CompileXIB en.lproj/MainWindow.xib    cd /Users/edwab/Downloads/BonjourWeb    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj/MainWindow.nib /Users/edwab/Downloads/BonjourWeb/en.lproj/MainWindow.xib36"089FC6DA-39C3-4B5A-B3A8-0D86A94431F6-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCopyStringsFile /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s416676027.305901
+e416676027.353388
+r1
+xCopyStringsFile
+x/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Copy en.lproj/Localizable.strings148"CopyStringsFile DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings en.lproj/Localizable.strings35624ebbf8d5b841^af785abbf8d5b841^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/edwab/Downloads/BonjourWeb/en.lproj/Localizable.strings0000000000000000^625"CopyStringsFile DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings en.lproj/Localizable.strings    cd /Users/edwab/Downloads/BonjourWeb    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/en.lproj -- en.lproj/Localizable.strings36"A4C2E0AE-A3A3-49EA-94A3-211C31D8BB0F-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCpResource Default.png DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Default.png
+s416676027.305602
+e416676027.306940
+r1
+xCpResource
+xDefault.png
+xDerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Default.png109"CpResource Default.png DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Default.png84484ebbf8d5b841^10954ebbf8d5b841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Default.png0034145adeffdf42^613"CpResource Default.png DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Default.png    cd /Users/edwab/Downloads/BonjourWeb    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/edwab/Downloads/BonjourWeb/Default.png /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app36"57CA6282-1320-486B-8BA4-D704D2AEDBC0-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CCpResource Icon.png DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Icon.png
+s416676027.305763
+e416676027.306969
+r1
+xCpResource
+xIcon.png
+xDerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Icon.png103"CpResource Icon.png DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Icon.pngce524ebbf8d5b841^289b4ebbf8d5b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Icon.png0034145adeffdf42^604"CpResource Icon.png DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Icon.png    cd /Users/edwab/Downloads/BonjourWeb    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/edwab/Downloads/BonjourWeb/Icon.png /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app36"8F0C0487-6CD0-42DA-B75C-62BD3C4BE5C6-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CGenerateDSYMFile /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb
+s416676040.687941
+e416676040.759681
+r1
+xGenerateDSYMFile
+x/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM
+x/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generate /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM182"GenerateDSYMFile DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb022ab0c8f8d5b841^3e7bc2c8f8d5b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM0034145adeffdf42^756"GenerateDSYMFile DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb    cd /Users/edwab/Downloads/BonjourWeb    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app.dSYM36"312435B9-0416-4760-BBD9-D6CCFE9D6C7C-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CLd /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb normal i386
+s416676040.108004
+e416676040.685382
+r1
+xLd
+x/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb
+xnormal
+xi386
+d/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWeb.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o
+d/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o
+d/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o
+d/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o
+d/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o
+d/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb100"Ld DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb normal i386e1b51bc8f8d5b841^b875afc8f8d5b841^---0#0#1#--1516"Ld DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb normal i386    cd /Users/edwab/Downloads/BonjourWeb    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator -F/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator -filelist /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWeb.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework Foundation -framework UIKit -Xlinker -dependency_info -Xlinker /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWeb_dependency_info.dat -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb36"AEE96EA3-EAE2-4871-A857-D77733C85D5B-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CProcessInfoPlistFile /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Info.plist /Users/edwab/Downloads/BonjourWeb/Info.plist
+s416676027.303466
+e416676027.305245
+r1
+xProcessInfoPlistFile
+x/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Info.plist
+x/Users/edwab/Downloads/BonjourWeb/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process /Users/edwab/Downloads/BonjourWeb/Info.plist117"ProcessInfoPlistFile DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Info.plist Info.plistb8cc4dbbf8d5b841^2a364ebbf8d5b841^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/edwab/Downloads/BonjourWeb/Info.plist0000000000000000^742"ProcessInfoPlistFile DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Info.plist Info.plist    cd /Users/edwab/Downloads/BonjourWeb    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/edwab/Downloads/BonjourWeb/Info.plist -genpkginfo /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app/Info.plist36"2A850B9B-44FC-4848-B034-CF26D7956F79-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CProcessPCH /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.pch BonjourWeb_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416676037.327545
+e416676039.776144
+r1
+xProcessPCH
+x/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.pch
+xBonjourWeb_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/edwab/Downloads/BonjourWeb/BonjourWeb_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile BonjourWeb_Prefix.pch235"ProcessPCH DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.pch BonjourWeb_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2db255c5f8d5b841^81b1c6c7f8d5b841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/edwab/Downloads/BonjourWeb/BonjourWeb_Prefix.pch0000000000000000^3614"ProcessPCH DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.pch BonjourWeb_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/edwab/Downloads/BonjourWeb    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -F/Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.dia -MMD -MT dependencies -MF /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.d -c /Users/edwab/Downloads/BonjourWeb/BonjourWeb_Prefix.pch -o /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Intermediates/PrecompiledHeaders/BonjourWeb_Prefix-dsujgzsqlezrckdbflpapwcncyql/BonjourWeb_Prefix.pch.pch36"6B09998E-1655-46DD-9EE6-6ACB7C640F76-
+b8ADCEB88-4390-4338-9CA5-89A6B19FAB79
+
+CProcessPCH /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Index/PrecompiledHeaders/BonjourWeb_Prefix-cuqhynsqckvjxeagsmexfcornzlb_ast/BonjourWeb_Prefix.pch.pch BonjourWeb_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/edwab/Downloads/BonjourWeb/DerivedData/BonjourWeb/Build/Products/Debug-iphonesimulator/BonjourWeb.app
+r0
+

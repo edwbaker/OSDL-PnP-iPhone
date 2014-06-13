@@ -1,0 +1,578 @@
+TBonjourWeb
+v7
+r0
+t419960188.164841
+cCheck dependencies
+cProcessInfoPlistFile /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/BonjourWeb.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/BonjourWeb.app/Icon.png Icon.png
+cCopyStringsFile /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+cCompileXIB /Users/edbaker/Dropbox/BonjourWeb/en.lproj/MainWindow.xib
+cCompileXIB /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib
+cCompileXIB /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib
+cProcessPCH /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch.gch BonjourWeb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o /Users/edbaker/Dropbox/BonjourWeb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorInfoController.o /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorViewController.o /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/DomainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/SimpleEditViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNetServices.h
+c000000004CC12260000000000000472F
+t1287725664
+s18223
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h
+c000000005325E2D300000000000012BE
+t1394991827
+s4798
+i<UIKit/UIKit.h>
+i"BrowserViewController.h"
+i"DomainViewController.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m
+c000000004C1957720000000000001EC4
+t1276729202
+s7876
+i"BonjourBrowser.h"
+i"BrowserViewController.h"
+i"DomainViewController.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h
+c000000005325E458000000000000113A
+t1394992216
+s4410
+i<UIKit/UIKit.h>
+i<Foundation/NSNetServices.h>
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m
+c000000005327289E000000000000336B
+t1395075230
+s13163
+i"BrowserViewController.h"
+i"SensorViewController.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/DomainViewController.h
+c000000004C19577200000000000010D4
+t1276729202
+s4308
+i<UIKit/UIKit.h>
+i<Foundation/NSNetServices.h>
+i"SimpleEditViewController.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/DomainViewController.m
+c000000004C19577200000000000033D2
+t1276729202
+s13266
+i"DomainViewController.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/SimpleEditViewController.h
+c000000004C1957720000000000000C67
+t1276729202
+s3175
+i<UIKit/UIKit.h>
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/SimpleEditViewController.m
+c000000004C19577200000000000011E7
+t1276729202
+s4583
+i"SimpleEditViewController.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/BonjourWeb_Prefix.pch
+c000000004C1957720000000000000AA5
+t1276729202
+s2725
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.h
+c000000004C1957720000000000000B86
+t1276729202
+s2950
+i<UIKit/UIKit.h>
+i"BonjourBrowser.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m
+c000000005325E9BF0000000000000C37
+t1394993599
+s3127
+i"BonjourWebAppDelegate.h"
+i"BonjourBrowser.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/Default.png
+c000000004A11CE170000000000000643
+t1242680855
+s1603
+
+N/Users/edbaker/Dropbox/BonjourWeb/Icon.png
+c000000004A11CE17000000000000124F
+t1242680855
+s4687
+
+N/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h
+c000000005326FEF800000000000000E6
+t1395064568
+s230
+i<UIKit/UIKit.h>
+
+N/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m
+c000000005326FD170000000000000350
+t1395064087
+s848
+i"SensorInfoController.h"
+
+N/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib
+c000000005326FA0400000000000008CF
+t1395063300
+s2255
+
+N/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h
+c00000000533962BF00000000000002D6
+t1396269759
+s726
+i<UIKit/UIKit.h>
+
+N/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m
+c00000000533962BF0000000000001857
+t1396269759
+s6231
+i"SensorViewController.h"
+i"SensorInfoController.h"
+i<arpa/inet.h>
+
+N/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib
+c0000000053272C780000000000001AA2
+t1395076216
+s6818
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWeb.LinkFileList
+c000000005357DDE10000000000000448
+t1398267361
+s1096
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o
+t1398267387
+s80564
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorInfoController.o
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorViewController.o
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o
+t1398267387
+s50556
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o
+t1398267387
+s6292
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app.dSYM
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/Default.png
+t1398267362
+s1603
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/Icon.png
+t1398267362
+s4687
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/Info.plist
+t1398267361
+s697
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/PkgInfo
+t1398267361
+s8
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/SensorInfoController.nib
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/SensorViewController.nib
+t2
+s0
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings
+t1398267366
+s288
+
+N/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/en.lproj/MainWindow.nib
+t1398267381
+s1523
+
+N/Users/edbaker/Dropbox/BonjourWeb/en.lproj/Localizable.strings
+c000000004A11CE170000000000000198
+t1242680855
+s408
+
+N/Users/edbaker/Dropbox/BonjourWeb/en.lproj/MainWindow.xib
+c000000004A11CE170000000000001B35
+t1242680855
+s6965
+
+N/Users/edbaker/Dropbox/BonjourWeb/main.m
+c00000000532607120000000000000A8E
+t1395001106
+s2702
+i<UIKit/UIKit.h>
+
+N/var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch.gch
+t1398267387
+s15453392
+
+NInfo.plist
+c0000000053259F2300000000000003EC
+t1394974499
+s1004
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies419960160#419960161#0(0"0(0#1#0"17228959744#0"0#
+
+CCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960187.746612
+e419960187.875952
+r0
+xCompileC
+xbuild/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o
+x/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h:55,
+o                 from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m:54:
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h:94: error: expected a property attribute before 'strong'
+lSLF07#2@73"Compile /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m419960187#419960187#0(314"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h:55,                 from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m:54:/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h:94: error: expected a property attribute before 'strong'1(4@45"Expected a property attribute before 'strong'419960187#184#130#3(7@87"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m419960187#18446744073709551615#0#0(6@65"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m298422002#54#0#54#0#0"0(7@87"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h419960187#18446744073709551615#0#0(6@65"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h416684627#55#0#55#0#0"0(13@121"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h416685016#94#0#94#0#0"0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h416685016#94#0#94#0#19"expected * before *0(0#0#65"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m4319178752#1950"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -include /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch -c /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.m -o /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourBrowser.o1#
+
+CCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960187.745934
+e419960187.875834
+r0
+xCompileC
+xbuild/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o
+x/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h:55,
+o                 from /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.h:56,
+o                 from /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m:1:
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h:94: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m: In function '-[BonjourWebAppDelegate bonjourBrowser:didResolveInstance:]':
+o/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m:54: warning: conflicting types for '-(void)bonjourBrowser:(BonjourBrowser *)browser didResolveInstance:(NSNetService *)service'
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h:64: warning: previous declaration of '-(NSURL *)bonjourBrowser:(BonjourBrowser *)browser didResolveInstance:(NSNetService *)ref'
+lSLF07#2@73"Compile /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m419960187#419960187#0(936"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h:55,                 from /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.h:56,                 from /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m:1:/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h:94: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m: In function '-[BonjourWebAppDelegate bonjourBrowser:didResolveInstance:]':/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m:54: warning: conflicting types for '-(void)bonjourBrowser:(BonjourBrowser *)browser didResolveInstance:(NSNetService *)service'/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h:64: warning: previous declaration of '-(NSURL *)bonjourBrowser:(BonjourBrowser *)browser didResolveInstance:(NSNetService *)ref'3(4@45"Expected a property attribute before 'strong'419960187#275#130#4(7@87"In file included from /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m419960187#18446744073709551615#0#0(6@65"/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m416686399#1#0#1#0#0"0(7@87"In file included from /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.h419960187#18446744073709551615#0#0(6@65"/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.h298422002#56#0#56#0#0"0(7@87"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h419960187#18446744073709551615#0#0(6@65"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h416684627#55#0#55#0#0"0(13@121"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h416685016#94#0#94#0#0"0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h416685016#94#0#94#0#19"expected * before *0(22@114"Conflicting types for '-(void)bonjourBrowser:(BonjourBrowser *)browser didResolveInstance:(NSNetService *)service'419960187#547#194#0(6@65"/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m416686399#54#0#54#0#25"conflicting types for '*'0(22@115"Previous declaration of '-(NSURL *)bonjourBrowser:(BonjourBrowser *)browser didResolveInstance:(NSNetService *)ref'419960187#741#195#0(6@65"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BonjourBrowser.h416684627#64#0#64#0#0"0(0#0#65"/Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m4319178752#1957"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -include /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch -c /Users/edbaker/Dropbox/BonjourWeb/Classes/BonjourWebAppDelegate.m -o /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BonjourWebAppDelegate.o1#
+
+CCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960187.876002
+e419960187.967952
+r0
+xCompileC
+xbuild/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o
+x/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:20:
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h:94: error: expected a property attribute before 'strong'
+oIn file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:21:
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:17: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:18: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:19: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:20: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:21: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m: In function '-[BrowserViewController netServiceDidResolveAddress:]':
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:334: error: request for member 'sensorViewController' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:335: error: request for member 'sensorViewController' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: error: request for member 'sensorViewController' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: warning: 'BrowserViewController' may not respond to '-presentViewController:animated:completion:'
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: warning: (Messages without a matching method signature
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: warning: will be assumed to return 'id' and accept
+o/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: warning: '...' as arguments.)
+lSLF07#2@80"Compile /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m419960187#419960187#0(2082"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:20:/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h:94: error: expected a property attribute before 'strong'In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:21:/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:17: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:18: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:19: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:20: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:21: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m: In function '-[BrowserViewController netServiceDidResolveAddress:]':/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:334: error: request for member 'sensorViewController' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:335: error: request for member 'sensorViewController' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: error: request for member 'sensorViewController' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: warning: 'BrowserViewController' may not respond to '-presentViewController:animated:completion:'/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: warning: (Messages without a matching method signature/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: warning: will be assumed to return 'id' and accept/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m:351: warning: '...' as arguments.)11(4@45"Expected a property attribute before 'strong'419960187#99#130#2(7@94"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#20#0#20#0#0"0(13@121"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h416685016#94#0#94#0#0"0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.h416685016#94#0#94#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#328#114#2(7@94"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#21#0#21#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#17#0#17#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#17#0#17#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#442#114#2(7@94"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#21#0#21#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#18#0#18#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#18#0#18#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#556#114#2(7@94"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#21#0#21#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#19#0#19#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#19#0#19#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#670#114#2(7@94"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#21#0#21#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#20#0#20#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#20#0#20#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#784#114#2(7@94"In file included from /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m419960187#18446744073709551615#0#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#21#0#21#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#21#0#21#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#21#0#21#0#19"expected * before *0(4@79"Request for member 'sensorViewController' in something not a structure or union419960187#1041#165#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#334#0#334#0#0"0(4@79"Request for member 'sensorViewController' in something not a structure or union419960187#1206#165#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#335#0#335#0#0"0(4@79"Request for member 'sensorViewController' in something not a structure or union419960187#1371#165#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#351#0#351#0#0"0(22@88"'BrowserViewController' may not respond to '-presentViewController:animated:completion:'419960187#1536#176#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#351#0#351#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)419960187#1712#133#0(6@72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m416768030#351#0#351#0#0"0(0#0#72"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m4319178752#1964"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -include /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch -c /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/BrowserViewController.m -o /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/BrowserViewController.o1#
+
+CCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/DomainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960187.876677
+e419960187.981456
+r1
+xCompileC
+xbuild/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o
+x/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/DomainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/DomainViewController.m419960187#419960187#0(0"0(0#0#71"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/DomainViewController.m4319178752#1962"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -include /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch -c /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/DomainViewController.m -o /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/DomainViewController.o0#
+
+CCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorInfoController.o /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960187.747349
+e419960187.874732
+r0
+xCompileC
+xbuild/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorInfoController.o
+x/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:9:
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h:13: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:13: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m: In function '-[SensorInfoController backButton:]':
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:19: warning: 'SensorInfoController' may not respond to '-dismissViewControllerAnimated:completion:'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:19: warning: (Messages without a matching method signature
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:19: warning: will be assumed to return 'id' and accept
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:19: warning: '...' as arguments.)
+lSLF07#2@64"Compile /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m419960187#419960187#0(895"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:9:/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h:13: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:13: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m: In function '-[SensorInfoController backButton:]':/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:19: warning: 'SensorInfoController' may not respond to '-dismissViewControllerAnimated:completion:'/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:19: warning: (Messages without a matching method signature/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:19: warning: will be assumed to return 'id' and accept/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m:19: warning: '...' as arguments.)4(4@45"Expected a property attribute before 'strong'419960187#82#114#2(7@78"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m416756887#9#0#9#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h416757368#13#0#13#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h416757368#13#0#13#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#196#114#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m416756887#13#0#13#0#19"expected * before *0(22@86"'SensorInfoController' may not respond to '-dismissViewControllerAnimated:completion:'419960187#419#157#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m416756887#19#0#19#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)419960187#576#116#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m416756887#19#0#19#0#0"0(0#0#56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m4319178752#1947"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -include /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch -c /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.m -o /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorInfoController.o1#
+
+CCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorViewController.o /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960187.874880
+e419960188.164792
+r0
+xCompileC
+xbuild/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorViewController.o
+x/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:9:
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:17: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:18: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:19: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:20: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:21: error: expected a property attribute before 'strong'
+oIn file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:10:
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h:13: error: expected a property attribute before 'strong'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController sensorInfoButton:]':
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:19: error: request for member 'sensorInfoViewController' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: error: request for member 'sensorInfoViewController' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: warning: 'SensorViewController' may not respond to '-presentViewController:animated:completion:'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: warning: (Messages without a matching method signature
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: warning: will be assumed to return 'id' and accept
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: warning: '...' as arguments.)
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController BackButton:]':
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:23: warning: 'SensorViewController' may not respond to '-dismissViewControllerAnimated:completion:'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController viewDidLoad]':
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:45: error: request for member 'service' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:46: error: request for member 'service' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:50: error: request for member 'service' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:55: warning: 'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:56: warning: 'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:65: error: request for member 'service' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:69: warning: 'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:93: error: 'NSJSONSerialization' undeclared (first use in this function)
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:93: error: (Each undeclared identifier is reported only once
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:93: error: for each function it appears in.)
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:95: error: incompatible types in initialization
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:96: error: incompatible types in initialization
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:99: error: incompatible types in initialization
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:102: error: request for member 'sensor_info_url' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:104: error: incompatible types in initialization
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:115: error: request for member 'sensor_request_url' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:117: error: request for member 'sensor_request_url' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:132: error: request for member 'timer' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController updateMeasurement:]':
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:138: error: request for member 'sensor_request_url' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:139: error: 'NSJSONSerialization' undeclared (first use in this function)
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController dealloc]':
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:163: error: '_sensorNameLabel' undeclared (first use in this function)
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:164: error: '_sensorMeasureLabel' undeclared (first use in this function)
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:165: error: '_sensorUnitLabel' undeclared (first use in this function)
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:166: error: '_deltemelater' undeclared (first use in this function)
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController timerChangeButton:]':
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:171: error: request for member 'timer' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:172: error: request for member 'timer' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:188: error: request for member 'timer' in something not a structure or union
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: At top level:
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'deltemelater' requires method '-deltemelater' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'deltemelater' requires the method 'setDeltemelater:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorNameLabel' requires method '-sensorNameLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorNameLabel' requires the method 'setSensorNameLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorMeasureLabel' requires method '-sensorMeasureLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorMeasureLabel' requires the method 'setSensorMeasureLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorUnitLabel' requires method '-sensorUnitLabel' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorUnitLabel' requires the method 'setSensorUnitLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@64"Compile /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m419960187#419960188#0(7744"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:9:/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:17: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:18: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:19: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:20: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h:21: error: expected a property attribute before 'strong'In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:10:/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h:13: error: expected a property attribute before 'strong'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController sensorInfoButton:]':/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:19: error: request for member 'sensorInfoViewController' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: error: request for member 'sensorInfoViewController' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: warning: 'SensorViewController' may not respond to '-presentViewController:animated:completion:'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: warning: (Messages without a matching method signature/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: warning: will be assumed to return 'id' and accept/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:20: warning: '...' as arguments.)/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController BackButton:]':/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:23: warning: 'SensorViewController' may not respond to '-dismissViewControllerAnimated:completion:'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController viewDidLoad]':/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:45: error: request for member 'service' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:46: error: request for member 'service' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:50: error: request for member 'service' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:55: warning: 'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:56: warning: 'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:65: error: request for member 'service' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:69: warning: 'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:93: error: 'NSJSONSerialization' undeclared (first use in this function)/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:93: error: (Each undeclared identifier is reported only once/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:93: error: for each function it appears in.)/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:95: error: incompatible types in initialization/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:96: error: incompatible types in initialization/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:99: error: incompatible types in initialization/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:102: error: request for member 'sensor_info_url' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:104: error: incompatible types in initialization/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:115: error: request for member 'sensor_request_url' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:117: error: request for member 'sensor_request_url' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:132: error: request for member 'timer' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController updateMeasurement:]':/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:138: error: request for member 'sensor_request_url' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:139: error: 'NSJSONSerialization' undeclared (first use in this function)/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController dealloc]':/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:163: error: '_sensorNameLabel' undeclared (first use in this function)/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:164: error: '_sensorMeasureLabel' undeclared (first use in this function)/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:165: error: '_sensorUnitLabel' undeclared (first use in this function)/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:166: error: '_deltemelater' undeclared (first use in this function)/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: In function '-[SensorViewController timerChangeButton:]':/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:171: error: request for member 'timer' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:172: error: request for member 'timer' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:188: error: request for member 'timer' in something not a structure or union/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m: At top level:/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'deltemelater' requires method '-deltemelater' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'deltemelater' requires the method 'setDeltemelater:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorNameLabel' requires method '-sensorNameLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorNameLabel' requires the method 'setSensorNameLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorMeasureLabel' requires method '-sensorMeasureLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorMeasureLabel' requires the method 'setSensorMeasureLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorUnitLabel' requires method '-sensorUnitLabel' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m:190: warning: property 'sensorUnitLabel' requires the method 'setSensorUnitLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation45(4@45"Expected a property attribute before 'strong'419960187#82#114#2(7@78"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#9#0#9#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#17#0#17#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#17#0#17#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#196#114#2(7@78"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#9#0#9#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#18#0#18#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#18#0#18#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#310#114#2(7@78"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#9#0#9#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#19#0#19#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#19#0#19#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#424#114#2(7@78"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#9#0#9#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#20#0#20#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#20#0#20#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#538#114#2(7@78"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#9#0#9#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#21#0#21#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.h417962559#21#0#21#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'419960187#735#114#2(7@78"In file included from /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#10#0#10#0#0"0(13@105"Expected a property attribute before 'strong' in /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h419960187#18446744073709551615#0#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h416757368#13#0#13#0#0"0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.h416757368#13#0#13#0#19"expected * before *0(4@83"Request for member 'sensorInfoViewController' in something not a structure or union419960188#964#152#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#19#0#19#0#0"0(4@83"Request for member 'sensorInfoViewController' in something not a structure or union419960188#1116#152#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#20#0#20#0#0"0(22@87"'SensorViewController' may not respond to '-presentViewController:animated:completion:'419960188#1268#158#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#20#0#20#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)419960188#1426#116#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#20#0#20#0#0"0(22@86"'SensorViewController' may not respond to '-dismissViewControllerAnimated:completion:'419960188#1854#157#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#23#0#23#0#26"'*' may not respond to '*'0(4@66"Request for member 'service' in something not a structure or union419960188#2120#135#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#45#0#45#0#0"0(4@66"Request for member 'service' in something not a structure or union419960188#2255#135#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#46#0#46#0#0"0(4@66"Request for member 'service' in something not a structure or union419960188#2390#135#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#50#0#50#0#0"0(22@73"'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'419960188#2525#144#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#55#0#55#0#26"'*' may not respond to '*'0(22@73"'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'419960188#2669#144#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#56#0#56#0#26"'*' may not respond to '*'0(4@66"Request for member 'service' in something not a structure or union419960188#2813#135#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#65#0#65#0#0"0(22@73"'SensorViewController' may not respond to '-copyStringFromTXTDict:which:'419960188#2948#144#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#69#0#69#0#26"'*' may not respond to '*'0(4@61"'NSJSONSerialization' undeclared (first use in this function)419960188#3092#130#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#93#0#93#0#43"'*' undeclared (first use in this function)0(4@36"Incompatible types in initialization419960188#3442#105#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#95#0#95#0#0"0(4@36"Incompatible types in initialization419960188#3547#105#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#96#0#96#0#0"0(4@36"Incompatible types in initialization419960188#3652#105#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#99#0#99#0#0"0(4@74"Request for member 'sensor_info_url' in something not a structure or union419960188#3757#144#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#102#0#102#0#0"0(4@36"Incompatible types in initialization419960188#3901#106#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#104#0#104#0#0"0(4@77"Request for member 'sensor_request_url' in something not a structure or union419960188#4007#147#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#115#0#115#0#0"0(4@77"Request for member 'sensor_request_url' in something not a structure or union419960188#4154#147#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#117#0#117#0#0"0(4@64"Request for member 'timer' in something not a structure or union419960188#4301#134#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#132#0#132#0#0"0(4@77"Request for member 'sensor_request_url' in something not a structure or union419960188#4551#147#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#138#0#138#0#0"0(4@61"'NSJSONSerialization' undeclared (first use in this function)419960188#4698#131#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#139#0#139#0#43"'*' undeclared (first use in this function)0(4@58"'_sensorNameLabel' undeclared (first use in this function)419960188#4934#128#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#163#0#163#0#43"'*' undeclared (first use in this function)0(4@61"'_sensorMeasureLabel' undeclared (first use in this function)419960188#5062#131#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#164#0#164#0#43"'*' undeclared (first use in this function)0(4@58"'_sensorUnitLabel' undeclared (first use in this function)419960188#5193#128#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#165#0#165#0#43"'*' undeclared (first use in this function)0(4@55"'_deltemelater' undeclared (first use in this function)419960188#5321#125#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#166#0#166#0#43"'*' undeclared (first use in this function)0(4@64"Request for member 'timer' in something not a structure or union419960188#5562#134#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#171#0#171#0#0"0(4@64"Request for member 'timer' in something not a structure or union419960188#5696#134#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#172#0#172#0#0"0(4@64"Request for member 'timer' in something not a structure or union419960188#5830#134#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#188#0#188#0#0"0(23@13"At top level:419960188#5964#72#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#0#0#0#0#0"0(22@132"Property 'deltemelater' requires method '-deltemelater' to be defined - use @synthesize, @dynamic or provide a method implementation419960188#6036#204#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#190#0#190#0#0"0(22@139"Property 'deltemelater' requires the method 'setDeltemelater:' to be defined - use @synthesize, @dynamic or provide a method implementation419960188#6240#211#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#190#0#190#0#0"0(22@138"Property 'sensorNameLabel' requires method '-sensorNameLabel' to be defined - use @synthesize, @dynamic or provide a method implementation419960188#6451#210#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#190#0#190#0#0"0(22@145"Property 'sensorNameLabel' requires the method 'setSensorNameLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation419960188#6661#217#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#190#0#190#0#0"0(22@144"Property 'sensorMeasureLabel' requires method '-sensorMeasureLabel' to be defined - use @synthesize, @dynamic or provide a method implementation419960188#6878#216#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#190#0#190#0#0"0(22@151"Property 'sensorMeasureLabel' requires the method 'setSensorMeasureLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation419960188#7094#223#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#190#0#190#0#0"0(22@138"Property 'sensorUnitLabel' requires method '-sensorUnitLabel' to be defined - use @synthesize, @dynamic or provide a method implementation419960188#7317#210#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#190#0#190#0#0"0(22@145"Property 'sensorUnitLabel' requires the method 'setSensorUnitLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation419960188#7527#217#0(6@56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m417962559#190#0#190#0#0"0(0#0#56"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m4319178752#1947"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -include /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch -c /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.m -o /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SensorViewController.o1#
+
+CCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/SimpleEditViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960187.877364
+e419960187.950091
+r1
+xCompileC
+xbuild/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o
+x/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/SimpleEditViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/SimpleEditViewController.m419960187#419960187#0(0"0(0#0#75"/Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/SimpleEditViewController.m4319178752#1970"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -include /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch -c /Users/edbaker/Dropbox/BonjourWeb/BonjourSupport/SimpleEditViewController.m -o /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/SimpleEditViewController.o0#
+
+CCompileC build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o /Users/edbaker/Dropbox/BonjourWeb/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960187.745143
+e419960187.875704
+r1
+xCompileC
+xbuild/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o
+x/Users/edbaker/Dropbox/BonjourWeb/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/edbaker/Dropbox/BonjourWeb/main.m419960187#419960187#0(0"0(0#0#40"/Users/edbaker/Dropbox/BonjourWeb/main.m4319178752#1915"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -include /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch -c /Users/edbaker/Dropbox/BonjourWeb/main.m -o /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib
+s419960162.608966
+e419960171.934135
+r0
+xCompileXIB
+x/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib
+o/* com.apple.ibtool.errors */
+o/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib: error: Interface Builder was unable to determine the type of "SensorInfoController.xib".
+lSLF07#2@35"CompileXIB SensorInfoController.xib419960162#419960171#0(179"/* com.apple.ibtool.errors *//Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib: error: Interface Builder was unable to determine the type of "SensorInfoController.xib".1(4@81"Interface Builder was unable to determine the type of "SensorInfoController.xib".419960171#18446744073709551615#0#0(6@58"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib416756100#0#0#0#0#0"0(0#0#58"/Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib4319178752#578"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 7.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/SensorInfoController.nib /Users/edbaker/Dropbox/BonjourWeb/SensorInfoController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk1#
+
+CCompileXIB /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib
+s419960162.607629
+e419960171.934320
+r0
+xCompileXIB
+x/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib
+o/* com.apple.ibtool.errors */
+o/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib: error: Interface Builder was unable to determine the type of "SensorViewController.xib".
+lSLF07#2@35"CompileXIB SensorViewController.xib419960162#419960171#0(179"/* com.apple.ibtool.errors *//Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib: error: Interface Builder was unable to determine the type of "SensorViewController.xib".1(4@81"Interface Builder was unable to determine the type of "SensorViewController.xib".419960171#18446744073709551615#0#0(6@58"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib416769016#0#0#0#0#0"0(0#0#58"/Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib4319178752#578"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 7.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/SensorViewController.nib /Users/edbaker/Dropbox/BonjourWeb/SensorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk1#
+
+CCompileXIB /Users/edbaker/Dropbox/BonjourWeb/en.lproj/MainWindow.xib
+s419960162.029940
+e419960181.851121
+r1
+xCompileXIB
+x/Users/edbaker/Dropbox/BonjourWeb/en.lproj/MainWindow.xib
+oobjc[2128]: found old-ABI metadata in image /usr/lib/system/libsystem_network.dylib !
+o2014-04-23 16:36:21.410 Interface Builder Cocoa Touch Tool[2128:1d03] CFPreferences: user home directory at file://localhost/Users/edbaker/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib419960162#419960181#0(327"objc[2128]: found old-ABI metadata in image /usr/lib/system/libsystem_network.dylib !2014-04-23 16:36:21.410 Interface Builder Cocoa Touch Tool[2128:1d03] CFPreferences: user home directory at file://localhost/Users/edbaker/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#57"/Users/edbaker/Dropbox/BonjourWeb/en.lproj/MainWindow.xib4319178752#576"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 7.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/en.lproj/MainWindow.nib /Users/edbaker/Dropbox/BonjourWeb/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
+s419960162.024111
+e419960166.210696
+r1
+xCopyStringsFile
+x/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/en.lproj/Localizable.strings
+xen.lproj/Localizable.strings
+lSLF07#2@33"Copy en.lproj/Localizable.strings419960162#419960166#0(0"0(0#0#62"/Users/edbaker/Dropbox/BonjourWeb/en.lproj/Localizable.strings4319178752#478"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/BonjourWeb.app/Default.png Default.png
+s419960161.600273
+e419960162.607575
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BonjourWeb.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png419960161#419960162#0(0"0(0#0#45"/Users/edbaker/Dropbox/BonjourWeb/Default.png4319178752#457"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/edbaker/Dropbox/BonjourWeb/Default.png /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app0#
+
+CCpResource build/Debug-iphonesimulator/BonjourWeb.app/Icon.png Icon.png
+s419960162.023470
+e419960162.608922
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BonjourWeb.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png419960162#419960162#0(0"0(0#0#42"/Users/edbaker/Dropbox/BonjourWeb/Icon.png4319178752#454"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/edbaker/Dropbox/BonjourWeb/Icon.png /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app0#
+
+CGenerateDSYMFile /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app.dSYM /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb
+r0
+
+CLd /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/BonjourWeb normal i386
+r0
+
+CProcessInfoPlistFile /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/Info.plist Info.plist
+s419960161.210871
+e419960161.600187
+r1
+xProcessInfoPlistFile
+x/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist419960161#419960161#0(0"0(0#0#44"/Users/edbaker/Dropbox/BonjourWeb/Info.plist17227511552#462"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app/Info.plist0#
+
+CProcessPCH /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch.gch BonjourWeb_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s419960181.851242
+e419960187.745053
+r1
+xProcessPCH
+x/var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch.gch
+xBonjourWeb_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile BonjourWeb_Prefix.pch419960181#419960187#0(0"0(0#0#55"/Users/edbaker/Dropbox/BonjourWeb/BonjourWeb_Prefix.pch17227116288#1809"    cd /Users/edbaker/Dropbox/BonjourWeb    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-generated-files.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-own-target-headers.hmap -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-all-target-headers.hmap -iquote /Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/BonjourWeb-project-headers.hmap -F/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator -I/Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/include -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources/i386 -I/Users/edbaker/Dropbox/BonjourWeb/build/BonjourWeb.build/Debug-iphonesimulator/BonjourWeb.build/DerivedSources -c /Users/edbaker/Dropbox/BonjourWeb/BonjourWeb_Prefix.pch -o /var/folders/s6/knxknn8s2ls8l9dd4d_530kc0000gr/C/com.apple.Xcode.504/SharedPrecompiledHeaders/BonjourWeb_Prefix-gnftqrfqwakkmndsnxiozmssuyvm/BonjourWeb_Prefix.pch.gch0#
+
+CTouch /Users/edbaker/Dropbox/BonjourWeb/build/Debug-iphonesimulator/BonjourWeb.app
+r0
+
